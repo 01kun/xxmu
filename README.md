@@ -3,7 +3,6 @@
 
 受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
 
-请注意不要上传超过100M的单个文件，否则commit无效。（并没有采用git-lfs）
 
 ## 前言
 
